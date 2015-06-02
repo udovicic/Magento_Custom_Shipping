@@ -4,7 +4,7 @@
         <carriers>
             <groups>
                 <inchoo_shipping translate="label">
-                    <label>Inchoo Shipping Carier</label>
+                    <label>Inchoo Shipping Carrier</label>
                     <sort_order>2</sort_order>
                     <show_in_default>1</show_in_default>
                     <show_in_website>0</show_in_website>
